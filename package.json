@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/iamtonysoft/phalcon-ecommerce#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0-alpha.6",
     "jquery": "^3.2.1"
   },
   "devDependencies": {

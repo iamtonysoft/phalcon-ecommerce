@@ -8,6 +8,7 @@
         {{ assets.outputCss('header') }}
     </head>
     <body>
+        <div class="background-image"></div>
         <div class="container">
             {{ content() }}
         </div>
