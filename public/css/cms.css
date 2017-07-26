@@ -1,0 +1,12 @@
+.form-signin {
+    margin-top: 70%;
+}
+
+.form-signin input {
+    border-radius: 0 !important;
+}
+
+.form-signin button {
+    margin-top: 20px;
+    border-radius: 0 !important;
+}
