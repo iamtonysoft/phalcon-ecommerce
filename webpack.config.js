@@ -10,8 +10,15 @@ module.exports = {
             './public/js/index.js'
         ],
         cms: [
-             './public/css/cms.css',
-            'bootstrap/dist/css/bootstrap.css'
+            
+            'formvalidation/dist/css/formValidation.css',
+            'formvalidation/dist/js/formValidation.js',
+            'formvalidation/dist/js/framework/semantic.js',
+            'semantic-ui/dist/semantic.css',
+            'semantic-ui/dist/semantic.js',
+            './public/css/cms.css',
+            './public/js/cms.js'
+            
         ]
     },
     output: {

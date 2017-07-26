@@ -8,11 +8,7 @@
         {{ assets.outputCss('header') }}
     </head>
     <body>
-        <div class="background-image"></div>
-        <div class="container">
-            {{ content() }}
-        </div>
-
+        {{ content() }}
         <!-- Latest compiled and minified JavaScript -->
          {{ assets.outputJs('footer') }} 
     </body>
